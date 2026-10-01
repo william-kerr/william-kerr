@@ -1,6 +1,6 @@
 Starving artist crafting [Tickers.com](https://tickers.com) the long way (rendering engine & DB from scratch).
 
-Currently chiseling my ideal market viz tool into existence. Rather than settle for “good enough” AI slop, I hold my work to a standard of excellence, crafting understandable code I like that works how I want it to.
+Currently chiseling my ideal market viz tool into existence. Rather than settle for “good enough” AI slop, I hold my work to a standard of excellence, crafting understandable code I like that works how I want it to. That being said, I still vibe code tools, tests, and things I'm not passionate about perfecting.
 
 Past career highlights include:
 - 20+ years of experience in both startup and Fortune 500 environments
